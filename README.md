@@ -67,43 +67,49 @@ print("RMSE= ",rmse)
 ```
 
 ## Output:
-Dataset:
+
+### Dataset:
+
 
 ![image1 0](https://github.com/sreekarsh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/139841918/ab94eec6-00df-4759-bfbd-04c5549f41c2)
 
 
-Head Values:
+### Head Values:
+
+
 ![head](https://github.com/sreekarsh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/139841918/dd4ec90a-4a5b-4c44-a013-6e0d51be8606)
 
 
-Tail Values:
+### Tail Values:
 
 
 ![tail](https://github.com/sreekarsh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/139841918/88243129-c997-4729-a61a-85b2370b6a71)
 
 
-X and Y values:
+### X and Y values:
 
 
 ![xyvalues](https://github.com/sreekarsh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/139841918/5222cbe1-9f82-474b-b70d-b9ff1e4f0143)
 
 
-Predication values of X and Y
+## Predication values of X and Y
 
 
 ![predict ](https://github.com/sreekarsh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/139841918/23f11abd-24d5-4824-8354-699e83fe87a5)
 
 
-MSE,MAE and RMSE:
+### MSE,MAE and RMSE:
+
+
 ![values](https://github.com/sreekarsh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/139841918/503a7618-d705-454c-abf2-ee1d65b2ebb0)
 
 
-Training Set:
+### Training Set:
 
 ![Screenshot 2024-02-20 112557](https://github.com/sreekarsh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/139841918/06c13bb9-2a1e-483e-b9a3-6b3ad0c0d9aa)
 
 
-Testing Set:
+### Testing Set:
 
 ![Screenshot 2024-02-20 112731](https://github.com/sreekarsh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/139841918/67dcd107-9435-4af8-9054-01893afb8706)
 
